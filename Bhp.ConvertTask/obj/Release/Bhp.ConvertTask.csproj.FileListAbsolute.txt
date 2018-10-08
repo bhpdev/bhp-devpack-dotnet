@@ -1,0 +1,17 @@
+D:\BHP\bhp-devpack-dotnet\Bhp.ConvertTask\bin\Release\Bhp.ConvertTask.dll
+D:\BHP\bhp-devpack-dotnet\Bhp.ConvertTask\bin\Release\Bhp.ConvertTask.pdb
+D:\BHP\bhp-devpack-dotnet\Bhp.ConvertTask\obj\Release\Bhp.ConvertTask.csproj.CoreCompileInputs.cache
+D:\BHP\bhp-devpack-dotnet\Bhp.ConvertTask\obj\Release\Bhp.ConvertTask.dll
+D:\BHP\bhp-devpack-dotnet\Bhp.ConvertTask\obj\Release\Bhp.ConvertTask.pdb
+D:\BHP\20180709\bhp-devpack-dotnet\Bhp.ConvertTask\bin\Release\Bhp.ConvertTask.dll
+D:\BHP\20180709\bhp-devpack-dotnet\Bhp.ConvertTask\bin\Release\Bhp.ConvertTask.pdb
+D:\BHP\20180709\bhp-devpack-dotnet\Bhp.ConvertTask\obj\Release\Bhp.ConvertTask.csprojAssemblyReference.cache
+D:\BHP\20180709\bhp-devpack-dotnet\Bhp.ConvertTask\obj\Release\Bhp.ConvertTask.csproj.CoreCompileInputs.cache
+D:\BHP\20180709\bhp-devpack-dotnet\Bhp.ConvertTask\obj\Release\Bhp.ConvertTask.dll
+D:\BHP\20180709\bhp-devpack-dotnet\Bhp.ConvertTask\obj\Release\Bhp.ConvertTask.pdb
+D:\BHP\20190915\bhp-devpack-dotnet\Bhp.ConvertTask\bin\Release\Bhp.ConvertTask.dll
+D:\BHP\20190915\bhp-devpack-dotnet\Bhp.ConvertTask\bin\Release\Bhp.ConvertTask.pdb
+D:\BHP\20190915\bhp-devpack-dotnet\Bhp.ConvertTask\obj\Release\Bhp.ConvertTask.csprojAssemblyReference.cache
+D:\BHP\20190915\bhp-devpack-dotnet\Bhp.ConvertTask\obj\Release\Bhp.ConvertTask.csproj.CoreCompileInputs.cache
+D:\BHP\20190915\bhp-devpack-dotnet\Bhp.ConvertTask\obj\Release\Bhp.ConvertTask.dll
+D:\BHP\20190915\bhp-devpack-dotnet\Bhp.ConvertTask\obj\Release\Bhp.ConvertTask.pdb

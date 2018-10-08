@@ -1,0 +1,4 @@
+D:\BHP\20190915\bhp-devpack-dotnet\Installer\obj\Debug\Installer.csproj.CoreCompileInputs.cache
+D:\BHP\20190915\bhp-devpack-dotnet\Installer\obj\Debug\Bhp.SmartContract.Installer.dll
+D:\BHP\20190915\bhp-devpack-dotnet\Installer\obj\Debug\Bhp.SmartContract.Installer.pdb
+D:\BHP\20190915\bhp-devpack-dotnet\Installer\obj\Debug\Installer.csprojAssemblyReference.cache
